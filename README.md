@@ -1,7 +1,5 @@
-SadHeart
+[SadHeart](http://frozenfire.itch.io/sad-heart)
 ========
 
 A game for Flappy Jam
-
-[Download .jar](http://frozenfire.itch.io/sad-heart)
 
